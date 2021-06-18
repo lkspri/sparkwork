@@ -19,6 +19,8 @@ object Lab01 {
     val total = rdd.sum()
     
     print(s"Total:$total")
+    
+    print("====================")
  
   }
 }

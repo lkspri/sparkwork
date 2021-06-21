@@ -17,10 +17,9 @@ object Lab01 {
     val rdd = sc.parallelize(lst)
     
     val total = rdd.sum()
-    
+   
     print(s"Total value:$total")
 
-    println("++++++++++++++++++")
- 
+    println("++++++++++++++++++") 
   }
 }

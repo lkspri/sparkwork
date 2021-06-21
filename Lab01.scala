@@ -20,7 +20,7 @@ object Lab01 {
     
     print(s"Total:$total")
     
-    print("====================")
+    print("========hi============")
  
   }
 }
